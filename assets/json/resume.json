@@ -59,10 +59,7 @@
       "name": "Graph Theory",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["Quantum Mechanics", "Quantum Teleportation"]
     }
   ],
   "languages": [
@@ -81,18 +78,12 @@
     {
       "name": "Mathematics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Graph Theory",
-        "Mathematical Logic"
-      ]
+      "keywords": ["Graph Theory", "Mathematical Logic"]
     },
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computational Complexity",
-        "Design and analysis of algorithms"
-      ]
+      "keywords": ["Computational Complexity", "Design and analysis of algorithms"]
     }
   ],
   "projects": [

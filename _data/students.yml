@@ -1,0 +1,292 @@
+- name: "Ana Laura Trujillo Negrete"
+  level: "postdoc"
+  year_start: 2025
+  year_end: "Present"
+  program: "DGAPA"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Token Graphs"
+
+- name: "Germán Benítez Bobadilla"
+  level: "postdoc"
+  year_start: 2023
+  year_end: "Present"
+  program: "Estancias posdoctorales por México"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Kernel-imperfect digraph structure and existence of H-kernels"
+
+- name: "Santiago Guzmán Pro"
+  level: "phd"
+  url: "https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/santiago-guzman-pro"
+  year_start: 2019
+  year_end: 2023
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Local expressions of hereditary classes"
+
+- name: "Santiago Guzmán Pro"
+  level: "masters"
+  url: "https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/santiago-guzman-pro"
+  year_start: 2016
+  year_end: 2018
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "On hereditary properties and their characterization through forbidden structures"
+
+- name: "Santiago Guzmán Pro"
+  level: "undergraduate"
+  url: "https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/santiago-guzman-pro"
+  year_start: 2015
+  year_end: 2016
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Tropical connectivity of graphs (in Spanish)"
+
+- name: "Fernando Esteban Contreras Mendoza"
+  level: "phd"
+  year_start: 2019
+  year_end: 2023
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Minimal obstructions for some matrix partitions on selected graph classes"
+
+- name: "Fernando Esteban Contreras Mendoza"
+  level: "masters"
+  year_start: 2016
+  year_end: 2018
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Minimal obstructions to (s,1)-polarity in cographs"
+
+- name: "Fernando Esteban Contreras Mendoza"
+  level: "undergraduate"
+  year_start: 2014
+  year_end: 2015
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Minimal obstructions to (s,1)-polarity in cographs"
+
+- name: "Juan Carlos García Altamirano"
+  level: "phd"
+  year_start: 2017
+  year_end: 2020
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Domination in graphs: state of the art of Vizing's conjecture (in Spanish)"
+
+- name: "Humberto Lozano Chávez"
+  level: "undergraduate"
+  year_start: 2024
+  year_end: 2025
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Cops and robbers on token graphs of trees (in Spanish)"
+
+- name: "Humberto Lozano Chávez"
+  level: "masters"
+  year_start: 2025
+  year_end: "Present"
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Polarity in graphs free of a five-vertex path and its complement"
+
+- name: "Ollin Tonatiuh Cortéz Gottwald"
+  level: "masters"
+  year_start: 2024
+  year_end: "Present"
+  program: "Computer Science"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "On the complexity of recognizing a subfamily of (2,1)-polar graphs"
+
+- name: "Vianey Guadalupe Cortes Hernández"
+  level: "undergraduate"
+  year_start: 2025
+  year_end: "Present"
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Complement reducible tripartite graphs (in Spanish)"
+
+- name: "Christian Alfredo Solís Calderón"
+  level: "undergraduate"
+  year_start: 2023
+  year_end: 2025
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Interval digraphs (in Spanish)"
+
+- name: "Bruno Amezcua Osorio"
+  level: "undergraduate"
+  year_start: 2023
+  year_end: 2024
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Cop number of token graphs (in Spanish)"
+
+- name: "Jaime Daniel García Argueta"
+  level: "undergraduate"
+  year_start: 2022
+  year_end: 2024
+  program: "Computer Science"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Linear time recognition for cographs (in Spanish)"
+
+- name: "Jaime Daniel García Argueta"
+  level: "undergraduate"
+  year_start: 2025
+  year_end: "Present"
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "(2,1)-Tyshkevich-Chernyak graphs (in Spanish)"
+
+- name: "Adrica Merino Sánchez"
+  level: "undergraduate"
+  year_start: 2023
+  year_end: 2024
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "An introduction to token graphs (in Spanish)"
+
+- name: "Mauricio Carrasco Ruiz"
+  level: "undergraduate"
+  year_start: 2022
+  year_end: 2023
+  program: "Computer Science"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Computational tools for graph theory (in Spanish)"
+
+- name: "José Jenaro Fernández Velázquez"
+  level: "masters"
+  year_start: 2021
+  year_end: 2023
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Cops and robbers on token digraphs (in Spanish)"
+
+- name: "José Jenaro Fernández Velázquez"
+  level: "undergraduate"
+  year_start: 2021
+  year_end: 2023
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Cops and robbers on token digraphs (in Spanish)"
+
+- name: "Manuel Alejandro Juárez Camacho"
+  level: "phd"
+  year_start: 2025
+  year_end: "Present"
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Defective colourings of graphs"
+
+- name: "Manuel Alejandro Juárez Camacho"
+  level: "masters"
+  year_start: 2021
+  year_end: 2023
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Hamiltonian cycles in k-quasi-transitive digraphs (in Spanish)"
+
+- name: "Ariana Paola Cortés Ángel"
+  level: "undergraduate"
+  year_start: 2015
+  year_end: 2017
+  program: "Actuarial Sciences"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Decontamination of hypercubes by mobile agents (in Spanish)"
+
+- name: "Clara Valentina Gallardo Gutiérrez"
+  level: "undergraduate"
+  year_start: 2015
+  year_end: 2016
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Polynomial reductions in Graph Theory (in Spanish)"
+
+- name: "Sebastián González Hermosillo de la Maza"
+  level: "masters"
+  year_start: 2013
+  year_end: 2015
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "On the k-kernel problem and its complexity in some classes of digraphs"
+
+- name: "Sebastián González Hermosillo de la Maza"
+  level: "undergraduate"
+  year_start: 2012
+  year_end: 2013
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Lights out (in Spanish)"
+
+- name: "Patricio Ricardo García Vázquez"
+  level: "masters"
+  year_start: 2012
+  year_end: 2014
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Some results on 4-transitive digraphs (in Spanish)"
+
+- name: "Alejandra Carolina Barrios Barocio"
+  level: "undergraduate"
+  year_start: 2012
+  year_end: 2013
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Convexity in oriented graphs (in Spanish)"
+
+- name: "Manuel Alejandro Juárez Camacho (co-supervised with Hortensia Galeana Sánchez)"
+  level: "undergraduate"
+  year_start: 2012
+  year_end: 2013
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "(k+1)-kings in k-quasi-transitive digraphs (in Spanish)"
+
+- name: "Jaime Ledesma Ponce"
+  level: "undergraduate"
+  year_start: 2012
+  year_end: 2013
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "A game of cops and robbers (in Spanish)"
+
+- name: "Jesús Alva Samos"
+  level: "undergraduate"
+  year_start: 2010
+  year_end: 2011
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Pegging in digraphs (in Spanish)"
+
+- name: "Elizabeth Rodríguez Sánchez"
+  level: "undergraduate"
+  year_start: 2010
+  year_end: 2011
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Pegging in graphs (in Spanish)"
+
+- name: "Eloisa Natalia Valdéz Rodríguez"
+  level: "undergraduate"
+  year_start: 2010
+  year_end: 2011
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "(k,l)-kernels in generalized tournaments (in Spanish)"
+
+- name: "Alejandro Vázquez López"
+  level: "undergraduate"
+  year_start: 2010
+  year_end: 2011
+  program: "Mathematics"
+  institution: "Facultad de Ciencias - UNAM"
+  topic: "Star colouring of graphs (in Spanish)"
+
+- name: "Sergio Eduardo Juárez Martínez"
+  level: "masters"
+  year_start: 2018
+  year_end: 2020
+  program: "Computer Science"
+  institution: "CINVESTAV"
+  topic: "Partitioning cographs in complete multipartite graphs (in Spanish)"
+
+

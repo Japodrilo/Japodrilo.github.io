@@ -20,20 +20,29 @@
       "name": "Universidad Nacional Autónoma de México",
       "position": "Associate Professor",
       "url": "https://www.matematicas.unam.mx",
-      "startDate": "2019-12-01",
+      "startDate": "2019",
       "summary": "Teaching at the Mathematics and Computer Science graduate and undergraduate programs.",
+      "highlights": ["Graph Theory"]
+    },
+    {
+      "name": "Centro de Investigación y de Estudios Avanzados del IPN",
+      "position": "CINVESTAV Researcher",
+      "url": "https://wwwcs.cs.cinvestav.mx/",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Researching on Theoretical Computer Science and Mathematics. Supervising graduate students at the Computer Science graduate program.",
       "highlights": ["Graph Theory"]
     }
   ],
   "education": [
     {
       "institution": "Universidad Nacional Autónoma de México",
-      "location": "Ciudad de México, México",
+      "location": "CDMX, México",
       "url": "https://www.unam.mx/",
       "area": "Mathematics",
       "studyType": "PhD",
-      "startDate": "2008-02-04",
-      "endDate": "2011-09-27"
+      "startDate": "2008",
+      "endDate": "2011"
     }
   ],
   "publications": [
@@ -91,7 +100,7 @@
       "name": "Certifying algorithms",
       "summary": "Many graph classes known to be recognizable in polynomial time have turned out to be linear-time recognizable.   We are interested in finding fine granularity linear time certifying algorithms for infinite families of graphs",
       "highlights": ["Graph matrix partitions"],
-      "startDate": "2021-01-01"
+      "startDate": "2021"
     }
   ]
 }

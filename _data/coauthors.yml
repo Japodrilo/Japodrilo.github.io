@@ -1,15 +1,3 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
@@ -17,18 +5,18 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"contreras-mendoza":
+  - firstname: ["Fernando Esteban", "F. E.", "F. Esteban", "Fernando E."]
+    url: https://scholar.google.com/citations?user=Kl_XLmgAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"hell":
+  - firstname: ["Pavol", "P."]
+    url: https://www.cs.sfu.ca/~pavol/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"huang":
+  - firstname: ["Jing", "J."]
+    url: https://www.uvic.ca/science/math-statistics/people/home/faculty/huang_jing.php
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"lin":
+  - firstname: ["Jephian", "Jephian C.-H.", "Jephian C. H.", "J. C.-H."]
+    url: https://jephianlin.github.io/

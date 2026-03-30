@@ -7,7 +7,14 @@
 
 "contreras-mendoza":
   - firstname: ["Fernando Esteban", "F. E.", "F. Esteban", "Fernando E."]
-    url: https://scholar.google.com/citations?user=Kl_XLmgAAAAJ&hl=en
+
+"fabila-monroy":
+  - firstname: ["Ruy", "R."]
+    url: https://rfabila.math.cinvestav.mx/home
+
+"guzman-pro":
+  - firstname: ["Santiago", "S."]
+    url: https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/santiago-guzman-pro
 
 "hell":
   - firstname: ["Pavol", "P."]

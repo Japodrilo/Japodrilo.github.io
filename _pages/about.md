@@ -53,3 +53,12 @@ graphs](https://en.wikipedia.org/wiki/Hereditary_property) (characterizations in
 terms of forbidden induced subgraphs, recognition algorithms, hardness results,
 etc.). Since my Ph.D. I have also worked on digraphs, principally (but not
 restricted to) kernels in digraphs and similar concepts.
+
+I am currently member of the Editorial Board of [Ars
+Combinatoria](https://combinatorialpress.com/ars/) and of the Program Committees
+of [LAWCG2026](https://www.lawcg.mat.br/lawcg26/) and
+[CanaDAM2027](https://canadam.ca/2027/).
+
+This page is a work in progress, I will eventually add all my publications, git
+repositories, classes I am teaching (and have taught) and the projects I am
+currently working on.
